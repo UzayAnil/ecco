@@ -8,3 +8,4 @@ Please excuse any stupid errors I that might have committed  and, if it's worth 
 
 ## Status
 **18/01/2012** - Ecco is still incomplete and non-functional at the moment. Hopefully I'll have the have time to work on it and bring it to a point where it can take part in some real serving action, but right now it does nothing more than binding itself to a socket and analysing (probably the wrong way, too) an incoming HTTP request.
+[![Run on Repl.it](https://repl.it/badge/github/UzayAnil/ecco)](https://repl.it/github/UzayAnil/ecco)
